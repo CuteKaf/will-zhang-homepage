@@ -445,9 +445,9 @@ p {
 }
 
 .person-photo {
-  padding: 8px;
-  object-fit: contain;
-  object-position: center;
+  padding: 0;
+  object-fit: cover;
+  object-position: center top;
 }
 
 .person-card .card-body {
